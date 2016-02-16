@@ -5,7 +5,9 @@
   "author": "KasunK <kasunk@99x.lk>",
   "description": "Adrabot is out Slack chatroom butler",
   "dependencies": {
+    "coffee-script": "^1.10.0",
     "hubot": "^2.18.0",
+    "hubot-azure-scripts": "^0.1.7",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
